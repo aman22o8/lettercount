@@ -1,0 +1,59 @@
+/* Write your code here. */
+
+.bg_container {
+  background-image: linear-gradient(to right, #1d976c, #93f9b9);
+  height: 100vh;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.left_container {
+  width: 280px;
+}
+.heading {
+  font-size: 40px;
+  color: #ffffff;
+  width: 220px;
+}
+.label_heading {
+  display: block;
+  font-size: 12px;
+  color: #ffffff;
+}
+.input_container {
+  padding-left: 10px;
+  outline: none;
+  background-color: transparent;
+  border: 2px solid #ffffff;
+  border-radius: 5px;
+  width: 250px;
+  height: 40px;
+}
+.text_displayed {
+  color: #073942;
+  padding-left: 10px;
+  font-size: 18px;
+}
+.last_value {
+  background-color: #ffffff;
+  color: #1d976c;
+  width: 200px;
+  height: 40px;
+  text-align: center;
+  padding-top: 8px;
+  border-radius: 5px;
+  font-weight: 700;
+}
+.last_ {
+  color: #071542e7;
+  max-width: 200px;
+  height: 40px;
+  text-align: center;
+  padding-top: 8px;
+  border-radius: 5px;
+}
+.myimage {
+  height: 350px;
+  width: 350px;
+}
